@@ -1,5 +1,7 @@
 # AthenaOS: Swarm-AI Integration for Kernel Management
 
+* ![Uilize TerraByte that takes in raw bytes as input with infinite context length, also make it very small memory wise to have thousands of them, or millions with quantizationa and a universal long memory store](https://github.com/kyegomez/TerraByte)
+
 ## Introduction
 Incorporating swarm intelligence into AthenaOS's kernel could dramatically enhance the system's resilience, adaptability, and performance. This document presents three architectural methods for this integration, focusing on security and optimization, and proposes potential use cases for swarm methodology in the kernel.
 
