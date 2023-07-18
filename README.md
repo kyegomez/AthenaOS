@@ -1,6 +1,6 @@
 # AthenaOS 🏛️ 🦉 🕊️
 
-Welcome to the **AthenaOS** project! Named after the Greek goddess of wisdom, AthenaOS aims to redefine operating systems through its revolutionary features and design principles. 
+Welcome to the **AthenaOS**! AthenaOS aims to redefine operating systems through integrating millions of swarming autonomous AI agents.
 
 ## 🏺 Welcome to AthenaOS 🦉
 
