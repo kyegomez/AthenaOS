@@ -1,4 +1,4 @@
-# AthenaOS: Technical Specification Document
+# AthenaOS, the last operating system
 
 AthenaOS, an AI-managed operating system, aims to set new standards in fluidity, responsiveness, speed, intuitiveness, and intelligence. By leveraging the power of Rust and C++, combined with swarm-based agents, we aim to create a system where users can leverage next generation technology as simply as possible
 
